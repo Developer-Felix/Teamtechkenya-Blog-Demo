@@ -1,6 +1,6 @@
 (function($){
   $(function(){
-
+    $('.modal').modal();
     $('.sidenav').sidenav();
     $('.slider').slider({
       height: 250,
